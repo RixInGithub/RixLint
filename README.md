@@ -1,1 +1,2 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+![release 1.0](https://img.shields.io/badge/release-v1.0-blue)
