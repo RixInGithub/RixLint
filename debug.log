@@ -1,0 +1,6 @@
+File = "test.py"
+Warns = []
+Errors = []
+Errors.append("Parentheses needed in print function")
+Errors.append("Parentheses needed in print function")
+Errors.append("Parentheses needed in print function")
