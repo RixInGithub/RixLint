@@ -9,9 +9,7 @@ class RLRuntime():
 		self.start = time.time()
 
 	def elapsed(self):
-		print(self.start)
 		timeFloat = time.time()
-		print(timeFloat)
 		return timeFloat - self.start
 
 class Builtins():
